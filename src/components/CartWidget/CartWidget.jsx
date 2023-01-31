@@ -1,8 +1,9 @@
+import { RiShoppingCartFill } from "react-icons/ri";
 
 export const CartWidget = ({cantCarrito}) => {
     return (
         <>
-            <button className="btn btn-dark">Carrito</button>
+            <button><RiShoppingCartFill/></button>
             <p>{cantCarrito}</p>
             
         </>

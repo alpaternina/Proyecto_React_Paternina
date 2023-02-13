@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "OH",
+        "title": "OH1: Bomba OH. Bombas con el impulsor o rodete en voladizo",
+        "precio": 15000,
+        "stock": 10,
+        "img":"bombasoh.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "OH",
+        "title": "OH2: Bomba OH API. Bombas con el impulsor o rodete en voladizo",
+        "precio": 30000,
+        "stock": 10,
+        "img":"bombaoh2.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "OH",
+        "title": "OH3: Bomba OH. Bombas con impulsor en voladizo, Vertical in-line",
+        "precio": 35000,
+        "stock": 10,
+        "img":"bombasoh.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "BB",
+        "title": "BB1: Bomba BB. Bombas apoyadas entre cojinetes",
+        "precio": 25000,
+        "stock": 10,
+        "img":"bombasbb.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "BB",
+        "title": "BB2: Bomba BB API. Bombas apoyadas entre cojinetes",
+        "precio": 40000,
+        "stock": 10,
+        "img":"bombabb2.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "BB",
+        "title": "BB3: Bomba BB API. Bombas apoyadas entre cojinetes multietapa",
+        "precio": 80000,
+        "stock": 10,
+        "img":"bombasbb.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "VS",
+        "title": "VS1: Bomba VS. Bombas verticales suspendidas, tipo Turbina",
+        "precio": 50000,
+        "stock": 10,
+        "img":"bombasvs.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "VS",
+        "title": "VS4: Bomba VS. Bombas verticales suspendidas, tipo Sumidero",
+        "precio": 35000,
+        "stock": 10,
+        "img":"bombasvs.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "VS",
+        "title": "VS6: Bomba VS. Bombas verticales suspendidas, Turbina con caneca",
+        "precio": 75000,
+        "stock": 10,
+        "img":"bombasvs.jpg"
+        
+    }
+]
+

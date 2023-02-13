@@ -25,8 +25,6 @@ export const ItemListContainer = () => {
                })
         }
 
-
-
     }, [idCategoria])
 
     return (
